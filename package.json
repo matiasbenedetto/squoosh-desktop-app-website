@@ -1,0 +1,31 @@
+{
+  "name": "squoosh-desktop-app-website",
+  "version": "1.0.0",
+  "description": "Website for the Squoosh Desktop App project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasbenedetto/squoosh-desktop-app-website.git"
+  },
+  "keywords": [
+    "Squoosh",
+    "Website",
+    "JavaScript"
+  ],
+  "author": "Matias Benedetto <matias.benedetto@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/matiasbenedetto/squoosh-desktop-app-website/issues"
+  },
+  "homepage": "https://github.com/matiasbenedetto/squoosh-desktop-app-website#readme",
+  "dependencies": {
+    "next": "^9.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
