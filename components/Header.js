@@ -15,14 +15,14 @@ export default () => (
                 line-height: 1em;
             }
             .navbar-brand img{
-                width:32px;
-                height:32px;
+                width:50px;
+                height:50px;
                 margin-right: 10px;
             }
         `}
         </style>
         <div className="navbar-brand">
-            <img src="static/img/icon-32x32.png" alt="Squoosh logo"/>
+            <img src="static/img/icon.png" alt="Squoosh logo"/>
             <a><b>Squoosh</b><br/>Desktop App</a>
         </div>
 
