@@ -22,11 +22,11 @@ export default () => (
         `}
         </style>
         <div className="navbar-brand">
-            <img src="static/img/icon.png" alt="Squoosh logo"/>
+            <img src="static/img/logo-1024x1024.png" alt="Squoosh logo"/>
             <a><b>Squoosh</b><br/>Desktop App</a>
         </div>
 
-        <div class="navbar-menu">
+        <div className="navbar-menu">
         </div>
     </header>
 )

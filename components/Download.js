@@ -8,9 +8,11 @@ export default () => (
                 display:flex;
                 justify-content: center;
                 padding:30px;
+                text-align: center;
             }
             .card-image img{
-                width: 200px;
+                width: 150px;
+                margin:auto;
             } 
         `}</style>
         <div className="container">
@@ -22,7 +24,7 @@ export default () => (
                     <div className="card">
                     <div className="card-image">
                         <figure class="image">
-                            <img src="static/img/icons/windows.svg" alt="Placeholder image" />
+                            <img src="static/img/os/windows.svg" alt="Placeholder image" />
                         </figure>
                     </div>
                         <div className="card-content">
@@ -47,7 +49,7 @@ export default () => (
                     <div className="card">
                     <div className="card-image">
                         <figure class="image">
-                            <img src="static/img/icons/mac.svg" alt="Placeholder image" />
+                            <img src="static/img/os/mac.svg" alt="Placeholder image" />
                         </figure>
                     </div>
                         <div className="card-content">
@@ -72,7 +74,7 @@ export default () => (
                     <div className="card">
                     <div className="card-image">
                         <figure class="image">
-                            <img src="static/img/icons/linux.svg" alt="Placeholder image" />
+                            <img src="static/img/os/linux.svg" alt="Placeholder image" />
                         </figure>
                     </div>
                         <div className="card-content">
