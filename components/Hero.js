@@ -2,7 +2,7 @@ export default () => (
     <div className="hero">
         <style jsx>{`
         .hero{
-            background-image: url("static/img/stars1.jpg");
+            background-image: url("static/img/stars2.jpg");
             background-size: cover;
             background-position: bottom;
             height: 80vh;
