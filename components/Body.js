@@ -1,5 +1,18 @@
 export default () => (
     <section className="has-background-light">
+        <style jsx>{`
+            section{
+                padding: 60px 0;
+            }
+            .card-image figure{
+                display:flex;
+                justify-content: center;
+                padding:30px;
+            }
+            .card-image img{
+                width: 200px;
+            } 
+        `}</style>
         <div className="container">
             <h2 className="title is-2">Download</h2>
             <div className="columns platforms">
