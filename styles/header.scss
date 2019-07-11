@@ -1,0 +1,25 @@
+header.navbar{
+    background: transparent;
+    border-bottom: 1px solid white;
+    position: absolute;
+    top:0;
+    width: 100%;
+    display: block;
+    padding-top:20px;
+    padding-bottom:10px;
+
+    .navbar-brand{
+        min-height:auto;
+    }
+    .navbar-brand a{
+        color: white;
+        font-size: 20px;
+        line-height: 1em;
+    }
+    .navbar-brand img{
+        width:50px;
+        height:50px;
+        margin-right: 10px;
+    }
+
+}

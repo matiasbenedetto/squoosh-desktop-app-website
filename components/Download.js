@@ -1,5 +1,5 @@
 export default () => (
-    <section className="has-background-light">
+    <section className="has-background-light" id="download">
         <style jsx>{`
             section{
                 padding: 60px 0;
@@ -35,7 +35,7 @@ export default () => (
                 <div className="column windows">
                     <div className="card">
                         <div className="card-image">
-                            <figure class="image">
+                            <figure className="image">
                                 <img src="static/img/os/windows.svg" alt="Placeholder image" />
                             </figure>
                         </div>
@@ -65,7 +65,7 @@ export default () => (
                 <div className="column mac">
                     <div className="card">
                         <div className="card-image">
-                            <figure class="image">
+                            <figure className="image">
                                 <img src="static/img/os/mac.svg" alt="Placeholder image" />
                             </figure>
                         </div>
@@ -96,7 +96,7 @@ export default () => (
                 <div className="column linux">
                     <div className="card">
                         <div className="card-image">
-                            <figure class="image">
+                            <figure className="image">
                                 <img src="static/img/os/linux.svg" alt="Placeholder image" />
                             </figure>
                         </div>

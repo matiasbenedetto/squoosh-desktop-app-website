@@ -1,0 +1,44 @@
+.hero{
+    background-image: url("/static/img/stars2.jpg");
+    background-size: cover;
+    background-position: bottom;
+    height: 80vh;
+    display: flex;
+    justify-content:center;
+
+    .container{
+        display: flex;
+        align-items: center;
+    }
+    h1{
+        color: white;
+    }
+    p{
+        color: white;
+    }
+    figure{
+        padding:0;
+    }
+
+    @media (max-width:768px){
+        min-height: 100vh;
+        height: auto;
+        display: block;
+
+        h1{
+            line-height: 1em;
+        }
+
+        .button{
+            margin-bottom: 1em;
+        }
+    
+        .container{
+            flex-direction: column;
+            padding-top: 130px;
+            display: block;
+        }
+    }
+
+}
+

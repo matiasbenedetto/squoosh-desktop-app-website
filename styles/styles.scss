@@ -1,0 +1,9 @@
+@import "styles/hero.scss";
+@import "styles/header.scss";
+
+@media (max-width:768px){
+    div.container{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}

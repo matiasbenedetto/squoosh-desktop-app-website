@@ -1,10 +1,10 @@
 export default () => (
-    <footer className="">
+    <footer className="footer">
         <style jsx>{`
             footer{
                 background-color: #333;
                 color: white;
-                padding: 60px 0;
+                padding: 60px 0 60px 0;
             }
             h2{
                 color: white;
@@ -28,7 +28,7 @@ export default () => (
             }
         `}</style>
 
-        <div class="container">
+        <div className="container">
             <div className="columns">
                 
                 <div className="column">
