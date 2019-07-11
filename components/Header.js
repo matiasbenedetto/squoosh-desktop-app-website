@@ -1,10 +1,14 @@
 export default () => (
-    <header className="navbar is-fixed-top is-spaced" role="navigation" aria-label="main navigation">
+    <header className="navbar is-spaced" role="navigation" aria-label="main navigation">
         <style jsx>
         {`
             header{
                 background: transparent;
                 border-bottom: 1px solid white;
+                position: absolute;
+                top:0;
+                width: 100%;
+                display: block;
             }
             .navbar-brand{
                 min-height:auto;
