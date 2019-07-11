@@ -19,6 +19,13 @@ export default () => (
                 width: 40px;
                 height: 40px;
             }
+
+            .card .content .button{
+                margin-bottom: 1em;
+            }
+            .card .content p{
+                margin-bottom: 0;
+            }
         `}</style>
         <div className="container">
             <h2 className="title is-2">Download</h2>
@@ -75,7 +82,7 @@ export default () => (
                             </div>
                             </div>
                             <div className="content">
-                                <a className="button is-large is-fullwidth is-primary" target="_blank" href="">
+                                <a className="button is-large is-fullwidth is-primary" href="https://github.com/matiasbenedetto/squoosh-desktop-app/raw/master/bin/mac/Squoosh%20Desktop-1.0.0.dmg">
                                     <span>Download <b>.dmg</b></span>
                                 </a>
                             </div>
@@ -106,10 +113,14 @@ export default () => (
                             </div>
                             </div>
                             <div className="content">
-                                <a className="button is-large is-fullwidth is-primary" target="_blank" href="">
+                                
+                                <p>Universal package:</p>
+                                <a className="button is-large is-fullwidth is-primary" href="https://github.com/matiasbenedetto/squoosh-desktop-app/raw/master/bin/linux/Squoosh%20Desktop%201.0.0.AppImage">
                                     <span>Download <b>.AppImage</b></span>
                                 </a>
-                                <a className="button is-large is-fullwidth is-primary" target="_blank" href="">
+
+                                <p>Ubuntu, Mint and Debian based distros:</p>
+                                <a className="button is-large is-fullwidth is-primary" href="https://github.com/matiasbenedetto/squoosh-desktop-app/raw/master/bin/linux/squoosh-desktop-app_1.0.0_amd64.deb">
                                     <span>Download <b>.deb</b></span>
                                 </a>
                             </div>
