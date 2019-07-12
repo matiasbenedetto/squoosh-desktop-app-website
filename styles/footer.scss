@@ -1,0 +1,21 @@
+footer{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(39,199,171,1) 0%, rgba(70,143,197,1) 90% );
+    padding: 60px 0 60px 0;
+
+    h2{
+        font-weight: normal;
+    }
+    p{
+        margin-bottom: 1em;
+    }
+    .logo{
+        text-align: center;
+    }
+    .logo img{
+        max-width:200px;
+    }
+    a{
+        color: rgb(74,74,74);
+        text-decoration: underline;
+    }
+}
