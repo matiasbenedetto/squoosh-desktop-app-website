@@ -1,5 +1,5 @@
 .hero{
-    background-image: url(/static/img/stars2.jpg);
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(39,199,171,1) 0%, rgba(70,143,197,1) 90% );
     background-size: cover;
     background-position: bottom;
     height: 80vh;
@@ -12,9 +12,13 @@
     }
     h1{
         color: white;
+        text-shadow: 0px 3px 0px rgba(0,0,0,.1),
+                    0px 0px 10px rgba(0,0,0,.2);
     }
     p{
         color: white;
+        text-shadow: 0px 3px 0px rgba(0,0,0,.1),
+                    0px 0px 10px rgba(0,0,0,.2);
     }
     figure{
         padding:0;
