@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "squossh-desktop",
+    "name": "squoosh-desktop",
     "builds": [
         { "src": "package.json", "use": "@now/static-build" }
     ]
