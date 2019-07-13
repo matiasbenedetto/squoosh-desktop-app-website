@@ -9,7 +9,12 @@ You can see in production: [https://squoosh-desktop.now.sh/](https://squoosh-des
 
 ## More info
 
-Squoosh Desktop App is an port based on Electron and working 100% offline of the online version of [Squosh.app](https://squoosh.app). Squoosh is and open source product made by the GoogleChromeLabs. The desktop app is a project of [Matias Benedetto](http://mebenedetto.com)
+Squoosh Desktop App is an offline version of [Squosh.app](https://squoosh.app). It's based on Electron and works 100% offline without internet connection.
+
+Squoosh is an open source product made by Google Chrome Labs.
+
+The desktop app is a project of [Matias Benedetto](http://mebenedetto.com).
+
 
 ## Technologies
 
