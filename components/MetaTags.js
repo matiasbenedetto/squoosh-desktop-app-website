@@ -5,7 +5,7 @@ export default () => (
         <title>Squoosh Desktop App | Squoosh your images to get the best</title>
 
         <meta name="description" content="Squoosh your images to get the best | Multiplatform desktop app to optimize, resize, compress and convert your images." />
-        <meta name="image" content="static/img/screenshot1.png" />
+        <meta name="image" content="https://squoosh-desktop.now.sh/static/img/screenshot1.png" />
 
         <meta itemProp="name" content="Squoosh Desktop App" />
         <meta itemProp="description" content="Squoosh your images to get the best | Multiplatform desktop app to optimize, resize, compress and convert your images."/>
@@ -14,7 +14,7 @@ export default () => (
         <meta name="twitter:card" content="summary"/>
         <meta name="twitter:title" content="Squoosh Desktop App"/>
         <meta name="twitter:description" content="Squoosh your images to get the best | Multiplatform desktop app to optimize, resize, compress and convert your images."/>
-        <meta name="twitter:image:src" content="https://squoosh-desktop.now.sh/static/img/screenshot1.png"/>
+        <meta name="twitter:image:src" content="https://squoosh-desktop.now.sh/gistatic/img/screenshot1.png"/>
 
         <meta name="og:title" content="Squoosh Desktop App"/>
         <meta name="og:description" content="Squoosh your images to get the best | Multiplatform desktop app to optimize, resize, compress and convert your images."/>
