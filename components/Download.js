@@ -52,8 +52,15 @@ export default () => (
                                 </div>
                             </div>
                             <div className="content">
-                                <a className="button is-large is-fullwidth is-primary" target="_blank" href="">
-                                    <span>Download <b>.exe</b></span>
+                                
+                                <p>Portable .exe:</p>
+                                <a className="button is-large is-fullwidth is-primary" href="https://github.com/matiasbenedetto/squoosh-desktop-app/raw/master/bin/windows/Squoosh%20Desktop%201.0.0.exe">
+                                    <span>Download <b>Portable</b></span>
+                                </a>
+
+                                <p>Installer .exe:</p>
+                                <a className="button is-large is-fullwidth is-primary" href="https://github.com/matiasbenedetto/squoosh-desktop-app/raw/master/bin/windows/Squoosh%20Desktop%20Setup%201.0.0.exe">
+                                    <span>Download <b>Installer</b></span>
                                 </a>
                             </div>
                         </div>

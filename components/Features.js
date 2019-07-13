@@ -20,7 +20,7 @@ export default () => (
                 <div className="column">
                     <img src="static/img/features/eye.svg" alt="Best image quality"/>
                     <h3 className="title is-4">Best image quality</h3>
-                    <p className="subtitle is-5">Squoosh put in your hands the best image codecs available.</p>
+                    <p className="subtitle is-5">Squoosh put on your hands the best image codecs available.</p>
                 </div>
                 <div className="column">
                     <img src="static/img/features/unplugged.svg" alt="Unplugged"/>
