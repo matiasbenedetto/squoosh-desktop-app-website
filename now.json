@@ -1,6 +1,7 @@
 {
     "version": 2,
     "name": "squoosh-desktop",
+    "alias": "squoosh-desktop.now.sh",
     "builds": [
         { "src": "package.json", "use": "@now/static-build" }
     ]
