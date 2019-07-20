@@ -26,7 +26,7 @@ export default () => (
                 <div className="column">
                     <h3 className="title is-4">Links</h3>
                     <p><a href="https://github.com/matiasbenedetto/squoosh-desktop-app" target="_blank">Project's repo</a></p>
-                    <p><a href="http://mebendetto.com" target="_blank">Author's blog</a></p>
+                    <p><a href="http://mebenedetto.com" target="_blank">Author's blog</a></p>
                     <p><a href="https://squoosh.app" target="_blank">Squoosh web app</a></p>
                     <p><a href="https://github.com/matiasbenedetto/squoosh-desktop-app-website" target="_blank">Website's repo</a></p>
                 </div>
