@@ -13,7 +13,7 @@ export default () => (
 
                 <div className="column">
                     <h3 className="title is-4">Credits</h3>
-                    <p>Squoosh Desktop App is an offline version of Squoosh app. It's based on <a href="https://electronjs.org/" target="_blank">Electron</a> and works 100% offline without internet connection.</p>
+                    <p>Squoosh Desktop App is an <a href="https://electronjs.org/" target="_blank">Electron</a> version of Squoosh app.</p>
                     <p>Squoosh is an open source product made by <a href="https://github.com/GoogleChromeLabs" target="_blank">Google Chrome Labs</a>.</p>
                     <p>The desktop app is a project of <a href="https://mebenedetto.com" target="_blank">Matias Benedetto</a></p>
                 </div>
